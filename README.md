@@ -26,9 +26,3 @@ Her film türü kendi özel kısıtlamalarına ve fiyatlandırmasına sahiptir:
 ## 🛠️ Teknik Özellikler
 - **Dil:** C#
 - **Konsept:** OOP (Kalıtım, Polimorfizm, Encapsulation)
-- **Hata Yönetimi:** Geçersiz girişlerde kullanıcıya özel uyarı mesajları gösterilir.
-- **Geliştirici:** Büşra Yıldırım (2310302167)
-
-## 🚀 Çalıştırma
-1. `ödev4.sln` dosyasını Visual Studio ile açın.
-2. Projeyi derleyin ve `F5` tuşu ile başlatın.
